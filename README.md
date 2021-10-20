@@ -1,2 +1,2 @@
-# WP_Dimas
+# WP2_Dimas
 Latihan Git
